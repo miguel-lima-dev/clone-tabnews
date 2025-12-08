@@ -1,5 +1,9 @@
+import App from "next/app";
+
 function Home() {
-    return <h1>Bom dia!</h1> 
+    return <h1>Murilo, me empresta 100 reais?? (me manda um audio finalizando o meme pfv)</h1> 
 }
 
 export default Home;
+
+
