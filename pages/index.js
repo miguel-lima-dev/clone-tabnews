@@ -8,8 +8,4 @@ function Home() {
   );
 }
 
-function teste() {
-  return <h1>Jorge</h1>;
-}
-
 export default Home;
